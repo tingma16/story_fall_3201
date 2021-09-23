@@ -1,0 +1,23 @@
+{
+  "name": "story_fall_3201",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tingma16/story_fall_3201.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tingma16/story_fall_3201/issues"
+  },
+  "homepage": "https://github.com/tingma16/story_fall_3201#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
